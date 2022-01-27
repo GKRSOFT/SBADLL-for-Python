@@ -1,11 +1,7 @@
 #!/usr/bin/python
-
 # -*- coding: utf-8 -*-
-
 """Copyright (c) 2022 GKRSOFT
-
 All rights reserved.
-
 For detailed copyright information see the README file.
 GNU General Public License v3.0 
 """
