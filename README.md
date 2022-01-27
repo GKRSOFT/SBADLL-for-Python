@@ -1,6 +1,10 @@
 # SBADLL-for-Python
-The end user must provide files for: Hash collections, PeID data, majic data, model, and features.
+Static Binary Analysis Dynamic Link Library for Python
 
+This open source community project is to provide initial help in malware analysis of MS Windows executable files.
+
+NOTE: The users must provide source files for; Hash collections, PeID data, majic data, model, and features.
+ 
  
 
 Summary:
